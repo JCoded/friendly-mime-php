@@ -1,0 +1,25 @@
+{
+    "name": "jcoded/friendly-mime",
+    "description": "Show a human readable description for a MIME type",
+    "keywords": [
+        "friendly MIME"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "support": {
+        "issues": "https://github.com/JCoded/friendly-mime-php/issues"
+    },
+    "authors": [{
+        "name": "James Smith",
+        "homepage": "https://github.com/JCoded",
+        "role": "Developer"
+    }],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JCoded\\FriendlyMime\\": "src/"
+        }
+    }
+}
