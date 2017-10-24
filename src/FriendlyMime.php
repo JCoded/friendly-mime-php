@@ -26,7 +26,7 @@ class FriendlyMime
         'application/vnd.adobe.air-application-installer-package+zip' => 'Adobe AIR Application',
         'application/x-shockwave-flash' => 'Adobe Flash',
         'application/vnd.adobe.fxp' => 'Adobe Flex Project',
-        'application/pdf' => 'Adobe Portable Document Format',
+        'application/pdf' => 'Adobe PDF Document',
         'application/vnd.cups-ppd' => 'Adobe PostScript Printer Description File Format',
         'application/x-director' => 'Adobe Shockwave Player',
         'application/vnd.adobe.xdp+xml' => 'Adobe XML Data Package',
